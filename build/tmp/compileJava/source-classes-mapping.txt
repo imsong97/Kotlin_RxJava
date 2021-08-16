@@ -10,8 +10,8 @@ com/rxjava/chapter05/chapter0501/ObservableCreateLamdaExample.java
  com.rxjava.chapter05.chapter0501.ObservableCreateLamdaExample
 com/rxjava/common/CarPredicate.java
  com.rxjava.common.CarPredicate
-com/rxjava/chapter05/chapter0501/ObservableFromFutureExample.java
- com.rxjava.chapter05.chapter0501.ObservableFromFutureExample
+com/rxjava/chapter05/chapter0509/ObservableScanExample03.java
+ com.rxjava.chapter05.chapter0509.ObservableScanExample03
 com/rxjava/chapter05/chapter0503/quiz/QuizAnswerForChapter050302.java
  com.rxjava.chapter05.chapter0503.quiz.QuizAnswerForChapter050302
 com/rxjava/chapter05/chapter0504/ObservableToListExample01.java
@@ -267,8 +267,8 @@ com/rxjava/chapter05/chapter0504/ObservableGroupByExample04.java
  com.rxjava.chapter05.chapter0504.ObservableGroupByExample04
 com/rxjava/chapter04/chapter0402/CarInventory.java
  com.rxjava.chapter04.chapter0402.CarInventory
-com/rxjava/chapter05/chapter0509/ObservableScanExample03.java
- com.rxjava.chapter05.chapter0509.ObservableScanExample03
+com/rxjava/chapter03/chapter0302/MissingBackpressureExceptionExample.java
+ com.rxjava.chapter03.chapter0302.MissingBackpressureExceptionExample
 com/rxjava/common/CarType.java
  com.rxjava.common.CarType
 com/rxjava/chapter05/chapter0502/ObservableTakeUntilExample02.java
@@ -293,5 +293,5 @@ com/rxjava/chapter01/chapter0101/ToDoSample.java
  com.rxjava.chapter01.chapter0101.ToDoSample
 com/rxjava/chapter04/chapter0402/ClassNameStaticMethodExample.java
  com.rxjava.chapter04.chapter0402.ClassNameStaticMethodExample
-com/rxjava/chapter03/chapter0302/MissingBackpressureExceptionExample.java
- com.rxjava.chapter03.chapter0302.MissingBackpressureExceptionExample
+com/rxjava/chapter05/chapter0501/ObservableFromFutureExample.java
+ com.rxjava.chapter05.chapter0501.ObservableFromFutureExample

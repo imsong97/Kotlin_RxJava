@@ -32,13 +32,13 @@ public class ObservableFromFutureExample {
         return CompletableFuture.supplyAsync(() -> calculate());
     }
 
-    private static Double calculate() {
+    public static Double calculate() {
         Logger.log(LogType.PRINT, "# 긴 처리 시간이 걸리는 작업 중.........");
         TimeUtil.sleep(6000L);
         return 100000000000000000.0;
     }
 
-    private static void shortTimeWork() {
+    public static void shortTimeWork() {
         TimeUtil.sleep(3000L);
         Logger.log(LogType.PRINT, "# 짧은 처리 시간 작업 완료!");
     }
