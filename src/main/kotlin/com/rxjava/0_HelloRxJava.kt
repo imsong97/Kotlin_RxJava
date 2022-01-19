@@ -19,5 +19,4 @@ fun main(){
 fun getThreadName(): String{
     return Thread.currentThread().name
     // commit - 1
-    // commit - 2
 }
