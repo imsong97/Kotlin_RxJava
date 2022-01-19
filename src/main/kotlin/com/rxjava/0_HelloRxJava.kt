@@ -18,7 +18,4 @@ fun main(){
 
 fun getThreadName(): String{
     return Thread.currentThread().name
-    // hello
-    // another branch - sy
-    // add text
 }
